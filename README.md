@@ -10,3 +10,10 @@ Adding Page
 
 
 Updateing Page
+
+
+
+<img width="574" alt="caluas" src="https://github.com/alisabourii/Dayli_platform_project/assets/72344723/39c4364d-a8ef-4558-9412-0d17de0114ca">
+
+
+Calues Page
